@@ -8,6 +8,7 @@
 
 🔸All visualizations are automatically saved as image files inside the repository. 
 
+
 ##📊**Dataset Description**
 
 🔻The dataset contains measurements of iris flowers from three different species.
@@ -18,6 +19,7 @@
 
 🔻Each row represents a single flower observation.
 
+
 ##📍**Project Objectives**
 
 > Analyze relationships between all numeric features
@@ -27,6 +29,7 @@
 > Identify correlations between variables
 
 > Generate professional visualizations
+
 
 ##🔸**Tools & Libraries Used**
 
@@ -39,6 +42,7 @@
 ◾Seaborn (statistical plotting)
 
 ◾OS module (folder management)
+
 
 ##📉**Visualizations Generated**
 
@@ -56,6 +60,7 @@ This project generates and saves the following visualizations:
   
 All visualizations are automatically saved inside the `visuals/` folder as PNG files.
 
+
 ##🔍**Key Insights**
 
 🔺Petal measurements are strongly correlated.
@@ -63,6 +68,7 @@ All visualizations are automatically saved inside the `visuals/` folder as PNG f
 🔺Petal features provide clearer species separation than sepal features.
 
 🔺Species form distinct clusters when multiple features are considered together.
+
 
 ##📍**Project Demonstration**
 
@@ -75,6 +81,7 @@ All visualizations are automatically saved inside the `visuals/` folder as PNG f
 ✔️ Categorical vs numerical comparison
 
 ✔️ Automated visualization saving
+
 
 ##🚩**Conclusion**
 
