@@ -8,7 +8,7 @@ import os
 df = pd.read_csv("iris.csv")      
 print("Dataset Loaded Successfully")
 
-df = df.drop(columns=['Id']         #it is only an index column.
+df = df.drop(columns=['Id'])        #it is only an index column.
 
 print(df.head())
 print("\nColumns:", df.columns)
