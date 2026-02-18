@@ -1,6 +1,6 @@
-#🟦**Iris Dataset – Exploratory Data Analysis (EDA)**
+#**Iris Dataset – Exploratory Data Analysis (EDA)**
 
-##📍**Project Overview**
+##**Project Overview**
 
 🔸This project performs Exploratory Data Analysis (EDA) on the Iris dataset using Python. 
 
@@ -9,7 +9,7 @@
 🔸All visualizations are automatically saved as image files inside the repository. 
 
 
-##📊**Dataset Description**
+##**Dataset Description**
 
 🔻The dataset contains measurements of iris flowers from three different species.
 
@@ -20,7 +20,7 @@
 🔻Each row represents a single flower observation.
 
 
-##📍**Project Objectives**
+##**Project Objectives**
 
 > Analyze relationships between all numeric features
 
@@ -31,7 +31,7 @@
 > Generate professional visualizations
 
 
-##🔸**Tools & Libraries Used**
+##**Tools & Libraries Used**
 
 ◾Python
 
@@ -44,7 +44,7 @@
 ◾OS module (folder management)
 
 
-##📉**Visualizations Generated**
+##**Visualizations Generated**
 
 This project generates and saves the following visualizations:
 
@@ -61,7 +61,7 @@ This project generates and saves the following visualizations:
 All visualizations are automatically saved inside the `visuals/` folder as PNG files.
 
 
-##🔍**Key Insights**
+##**Key Insights**
 
 🔺Petal measurements are strongly correlated.
 
@@ -70,7 +70,7 @@ All visualizations are automatically saved inside the `visuals/` folder as PNG f
 🔺Species form distinct clusters when multiple features are considered together.
 
 
-##📍**Project Demonstration**
+##**Project Demonstration**
 
 ✔️ Understanding of data cleaning
 
@@ -83,7 +83,7 @@ All visualizations are automatically saved inside the `visuals/` folder as PNG f
 ✔️ Automated visualization saving
 
 
-##🚩**Conclusion**
+##**Conclusion**
 
 -This project demonstrates how meaningful insights can be extracted by analyzing all features of a dataset.
 
